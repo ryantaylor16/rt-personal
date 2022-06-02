@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2012-01-12
+img: axon.png
+alt: Axon by Taser
+project-date: January 2012
+client: Axon aka Taser
+category: Operations
+description: Part of the 12 person team who developed and operated the Axon connected camera device worn by police and armed services in the field.
+clienturl: https://www.axon.com
 ---

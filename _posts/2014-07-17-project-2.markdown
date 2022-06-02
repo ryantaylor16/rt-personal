@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2021-05-17
+img: hulu.png
+alt: Hulu Operations
+project-date: May 2021
+client: Hulu
+category: Production Operations
+description: My teams maximized uptime/availability for our Live and Video on Demand products leveraging operators, a talented engineering team, and the analytical tools built by those teams.
+clienturl: https://www.hulu.com
 ---

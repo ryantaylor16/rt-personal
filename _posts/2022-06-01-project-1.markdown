@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2021-06-01
+img: transposit.png
+alt: Transposit Logo
+project-date: June 2021
+client: Transposit
+category: Product, Success, and Solutions Leader
+description: a Modern Operations Hub that can connect to anything with an API to create workflows and automation
+clienturl: https://www.transposit.com
+
+---
